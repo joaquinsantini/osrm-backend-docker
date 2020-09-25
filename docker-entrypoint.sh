@@ -5,7 +5,7 @@ OSRM_DATA_PATH=${OSRM_DATA_PATH:="/osrm-data"}
 OSRM_DATA_LABEL=${OSRM_DATA_LABEL:="data"}
 OSRM_GRAPH_PROFILE=${OSRM_GRAPH_PROFILE:="car"}
 OSRM_GRAPH_PROFILE_URL=${OSRM_GRAPH_PROFILE_URL:=""}
-OSRM_PBF_URL=${OSRM_PBF_URL:="http://download.geofabrik.de/asia/maldives-latest.osm.pbf"}
+OSRM_PBF_URL=${OSRM_PBF_URL:="http://download.geofabrik.de/south-america/argentina-latest.osm.pbf"}
 OSRM_MAX_TABLE_SIZE=${OSRM_MAX_TABLE_SIZE:="8000"}
 
 
